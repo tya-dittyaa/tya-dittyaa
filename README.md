@@ -16,4 +16,4 @@ import Kang-Dittyaa from here;
 # Need Help
 > Need help? Join our server or you can dm me in discord.
 
-> [![Discord](https://discord.c99.nl/widget/theme-3/478857596862988302.png)](https://discord.com/users/478857596862988302)
+> ![discord](https://discord.c99.nl/widget/theme-1/478857596862988302.png)
