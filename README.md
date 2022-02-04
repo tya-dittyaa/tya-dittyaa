@@ -10,7 +10,7 @@ import Kang-Dittyaa from here;
 
 # My Discord Server
 
-<a href="https://discord.gg/McxuYT3tdk"><img src="https://invidget.switchblade.xyz/McxuYT3tdk"/></a>
+<a href="https://discord.gg/McxuYT3tdk"><img src="https://invidget.switchblade.xyz/QSTq3aVbw5"/></a>
 <br><br>
 
 </div>
