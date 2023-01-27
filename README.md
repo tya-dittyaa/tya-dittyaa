@@ -8,11 +8,14 @@ import Kang-Dittyaa from here;
 - 😎 I’m currently learning code everything
 - 🎁 I coded Discord Bot named **Hanna Chan** and got Verified Bot by Discord <br /><br />
 
-# My Discord Bots
+## My Discord Bots
 
 <a href="https://top.gg/bot/723092028396797982">
   <img src="https://top.gg/api/widget/723092028396797982.svg">
 </a>
 <br><br>
+
+## My Discord Server
+[![DiscordBanner](https://invidget.switchblade.xyz/BPQBmwTemY)](https://discord.gg/BPQBmwTemY)<br />
 
 </div>
