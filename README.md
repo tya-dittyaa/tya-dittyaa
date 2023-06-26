@@ -20,6 +20,6 @@ import { HannaChan } from "TyaDittyaa";
 <br>
 
 ## My Discord Server
-![Discord Banner 1](https://discordapp.com/api/guilds/739460799810240533/widget.png?style=banner1)<br />
+[![Discord Banner 1](https://discordapp.com/api/guilds/739460799810240533/widget.png?style=banner1)](https://discord.gg/BPQBmwTemY)<br />
 
 </div>
