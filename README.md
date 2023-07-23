@@ -9,7 +9,7 @@ import { HannaChan } from "TyaDittyaa";
 
 ## My Statistics
 <a href="https://github.com/aditiyongg/">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiyongg&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tya-dittyaa&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
 </a>
 <br>
 
