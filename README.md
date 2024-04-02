@@ -1,5 +1,3 @@
-![welcome](https://media.discordapp.net/attachments/790581490999492618/876386445579927572/standard_1.gif)
-
 ```ts
 import { HannaChan } from "TyaDittyaa";
 ```
