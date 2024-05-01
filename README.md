@@ -20,6 +20,6 @@ import { profile } from "@tya-dittyaa";
 
 ## My Discord Server
 [![Discord Banner 1](https://discordapp.com/api/guilds/739460799810240533/widget.png?style=banner1)](https://discord.gg/BPQBmwTemY)<br />
-[![Discord Banner 2](https://discordapp.com/api/guilds/1222217129508606145/widget.png?style=banner1)](https://discord.gg/JcTRBFHbCu)<br />
+[![Discord Banner 1](https://discordapp.com/api/guilds/1222217129508606145/widget.png?style=banner1)](https://discord.gg/JcTRBFHbCu)<br />
 
 </div>
