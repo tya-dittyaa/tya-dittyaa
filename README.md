@@ -1,9 +1,11 @@
 ```ts
 import { profile } from "@tya-dittyaa";
 ```
-
-- 😎 I’m currently learning code everything
-- 🎁 I coded Discord Bot named **Hanna Chan** and got Verified Bot by Discord <br /><br />
+- 😎 Currently learning all things coding.
+- 🎁 Developed a Discord bot named **Hanna Chan 한나**, which has been verified by Discord.
+- 💻 Working full-time as a **Junior Programmer** at **Bina Nusantara (Binus) IT Division**.
+- 👨‍🎓 Actively studying at **Bina Nusantara (Binus) University**.
+- 👥 Leading the **Hanna's Operation Team**, which is responsible for developing the **Hanna Chan** and **Teras JKT48 Community** application project. <br /><br />
 
 ## My Statistics
 <a href="https://github.com/tya-dittyaa/">
@@ -20,6 +22,7 @@ import { profile } from "@tya-dittyaa";
 
 ## My Discord Server
 [![Discord Banner 1](https://discordapp.com/api/guilds/739460799810240533/widget.png?style=banner3)](https://discord.gg/BPQBmwTemY)
-[![Discord Banner 1](https://discordapp.com/api/guilds/1222217129508606145/widget.png?style=banner3)](https://discord.gg/JcTRBFHbCu)<br />
+[![Discord Banner 1](https://discordapp.com/api/guilds/1222217129508606145/widget.png?style=banner3)](https://discord.gg/JcTRBFHbCu)
+[![Discord Banner 1](https://discordapp.com/api/guilds/941972748157206528/widget.png?style=banner3)](https://discord.gg/terasjkt48) <br />
 
 </div>
