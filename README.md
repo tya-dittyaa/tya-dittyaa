@@ -9,7 +9,7 @@ import { profile } from "@tya-dittyaa";
 
 ## My Websites
 - https://dittyaa.my.id/
-- https://hannachan.my.id/"
+- https://hannachan.my.id/
 - https://teras48.com/
 </a>
 <br>
