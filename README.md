@@ -10,7 +10,7 @@ import { profile } from "@tya-dittyaa";
 ## My Websites
 - https://dittyaa.my.id/
 - https://hannachan.my.id/
-- https://teras48.com/
+- https://teras48.com/ <br /><br />
 
 ## My Statistics
 <a href="https://github.com/tya-dittyaa/">
