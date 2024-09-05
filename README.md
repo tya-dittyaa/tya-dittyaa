@@ -8,9 +8,9 @@ import { profile } from "@tya-dittyaa";
 - 👥 Leading the **Hanna's Operation Team**, which is responsible for developing the **Hanna Chan** and **Teras JKT48 Community** application project. <br /><br />
 
 ## My Websites
-- <a href="https://dittyaa.my.id/">
-- <a href="https://hannachan.my.id/">
-- <a href="https://teras48.com/"> 
+- https://dittyaa.my.id/
+- https://hannachan.my.id/"
+- https://teras48.com/
 </a>
 <br>
 
