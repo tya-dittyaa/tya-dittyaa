@@ -11,8 +11,6 @@ import { profile } from "@tya-dittyaa";
 - https://dittyaa.my.id/
 - https://hannachan.my.id/
 - https://teras48.com/
-</a>
-<br>
 
 ## My Statistics
 <a href="https://github.com/tya-dittyaa/">
