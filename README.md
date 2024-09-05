@@ -29,7 +29,8 @@ import { profile } from "@tya-dittyaa";
 
 ## My Discord Server
 [![Discord Banner 1](https://discord.com/api/guilds/739460799810240533/widget.png?style=banner3)](https://discord.gg/BPQBmwTemY)
+[![Discord Banner 1](https://discord.com/api/guilds/941972748157206528/widget.png?style=banner3)](https://discord.gg/terasjkt48)
 [![Discord Banner 1](https://discord.com/api/guilds/1222217129508606145/widget.png?style=banner3)](https://discord.gg/JcTRBFHbCu)
-[![Discord Banner 1](https://discord.com/api/guilds/941972748157206528/widget.png?style=banner3)](https://discord.gg/terasjkt48)<br />
+<br />
 
 </div>
