@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Tya+Dittyaa;Full+Stack+Developer;Discord+Bot+Creator&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Tya+Dittyaa;Full+Stack+Developer;Discord+Bot+Creator&center=true&width=500&height=70">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-fajri/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BPQBmwTemY)
@@ -13,13 +13,9 @@
   <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
-<div style="margin-right: 320px;">
-
 > Innovative Full Stack Developer specializing in modern web applications and Discord automation solutions. Passionate about creating elegant, scalable software that solves real-world problems.
 
-Currently working at **Bina Nusantara IT Division** while completing my Computer Science degree. I lead the **Hanna's Operation Team**, developing quality solutions that emphasize performance, user experience, and code quality.
-
-</div>
+Currently working at **Bina Nusantara IT Division** while completing my Computer Science degree. I lead the **HannaVox Studios**, developing quality solutions that emphasize performance, user experience, and code quality.
 
 ```typescript
 const tyaDittyaa = {
@@ -104,7 +100,6 @@ const tyaDittyaa = {
       <td width="50%">
         <h3 align="center">Development Activity</h3>
         <div align="center">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=tya-dittyaa&theme=dark&hide_border=true" width="100%" alt="GitHub Streak Stats">
           <br>
           <br>
           <p>
