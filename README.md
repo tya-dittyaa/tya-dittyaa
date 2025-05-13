@@ -9,10 +9,6 @@
 
 ## 💼 Professional Overview
 
-<div align="center">
-  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div>
-
 > Innovative Full Stack Developer specializing in modern web applications and Discord automation solutions. Passionate about creating elegant, scalable software that solves real-world problems.
 
 Currently working at **Bina Nusantara IT Division** while completing my Computer Science degree. I lead the **HannaVox Studios**, developing quality solutions that emphasize performance, user experience, and code quality.
