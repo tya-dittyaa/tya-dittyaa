@@ -146,9 +146,6 @@ Modern developer portfolio featuring interactive 3D elements, dynamic content lo
 <a href="https://discord.gg/BPQBmwTemY">
 <img src="https://invidget.switchblade.xyz/BPQBmwTemY" alt="[Discord Server Invite]">
 </a>
-<a href="https://discord.gg/terasjkt48">
-<img src="https://invidget.switchblade.xyz/terasjkt48" alt="[Teras JKT48 Discord Server Invite]">
-</a>
 </div>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
