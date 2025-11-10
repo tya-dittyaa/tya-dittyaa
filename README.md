@@ -167,8 +167,8 @@ const tyaDittyaa = {
   
   <br><br>
   
-  <a href="https://discord.gg/terasjkt48">
-    <img src="https://invidget.switchblade.xyz/terasjkt48" alt="Teras JKT48 Server Invitation">
+  <a href="https://discord.gg/BE5XRCFdUh">
+    <img src="https://invidget.switchblade.xyz/BE5XRCFdUh" alt="Teras JKT48 Server Invitation">
   </a>
 </div>
 
