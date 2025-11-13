@@ -114,7 +114,7 @@ My professional focus includes:
       </td>
     </tr>
     <tr style="vertical-align: top;">
-      <td width="50%" style="vertical-align: top;">
+      <td width="50%" style="vertical-align: top; padding: 10px;">
         <div align="center">
           <a href="https://dittyaa.id/" target="_blank">
             <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=200&section=header&text=Personal%20Portfolio&fontSize=50&fontAlignY=35" width="100%" alt="Personal Portfolio">
