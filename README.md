@@ -71,10 +71,9 @@ My professional focus includes:
 ## 🚀 Highlighted Projects
 
 <div align="center">
-  <table>
-    <tr>
+  <table style="vertical-align: top;">
+    <tr style="vertical-align: top;">
       <td width="50%">
-        <h3 align="center">Hanna Chan Discord Bot</h3>
         <div align="center">
           <a href="https://hannachan.my.id/" target="_blank">
             <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hanna%20Chan%20Bot&fontSize=50&fontAlignY=35&desc=Discord%20Verified%20Bot&descAlignY=50&descAlign=62" width="100%" alt="Hanna Chan Discord Bot">
@@ -88,13 +87,14 @@ My professional focus includes:
             </a>
             <img src="https://img.shields.io/badge/Repository-Private-red?style=for-the-badge&logo=github">
           </p>
+          <h3 align="center">Hanna Chan Discord Bot</h3>
+          <br>
           <p align="justify">
             Discord-verified bot with advanced moderation features, AI-driven conversations, music playback, and custom server automation. Powers 100+ communities with 99.9% uptime.
           </p>
         </div>
       </td>
-      <td width="50%">
-        <h3 align="center">Teras JKT48 Community Platform</h3>
+      <td width="50%" style="vertical-align: top; padding: 10px;">
         <div align="center">
           <a href="https://teras48.com" target="_blank">
             <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Teras%20JKT48&fontSize=50&fontAlignY=35&desc=Community%20Platform&descAlignY=50&descAlign=62" width="100%" alt="Teras JKT48 Project">
@@ -105,15 +105,16 @@ My professional focus includes:
             </a>
             <img src="https://img.shields.io/badge/Repository-Private-red?style=for-the-badge&logo=github">
           </p>
+          <h3 align="center">Teras JKT48 Community Platform</h3>
+          <br>
           <p align="justify">
             Full-stack community platform with real-time event tracking, user authentication, content management, and interactive features. Built with Next.js, Nest.js, and PostgreSQL.
           </p>
         </div>
       </td>
     </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Personal Portfolio</h3>
+    <tr style="vertical-align: top;">
+      <td width="50%" style="vertical-align: top;">
         <div align="center">
           <a href="https://dittyaa.id/" target="_blank">
             <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=200&section=header&text=Personal%20Portfolio&fontSize=50&fontAlignY=35" width="100%" alt="Personal Portfolio">
@@ -124,15 +125,19 @@ My professional focus includes:
             </a>
             <img src="https://img.shields.io/badge/Repository-Private-red?style=for-the-badge&logo=github">
           </p>
+          <h3 align="center">Personal Portfolio</h3>
+          <br>
           <p align="justify">
             Modern developer portfolio featuring interactive 3D elements, dynamic content loading, and a project showcase with detailed case studies.
           </p>
         </div>
       </td>
-      <td width="50%">
-        <h3 align="center">Development Activity</h3>
+      <td width="50%" style="vertical-align: top;">
         <div align="center">
-          <br>
+          <a href="https://github.com/tya-dittyaa" target="_blank">
+            <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Development%20Activity&fontSize=50&fontAlignY=35&desc=GitHub%20Profile&descAlignY=50&descAlign=62" width="100%" alt="Development Activity">
+          </a>
+          <h3 align="center">Development Activity</h3>
           <br>
           <p>
             <img src="https://github-profile-trophy.vercel.app/?username=tya-dittyaa&theme=nord&column=4&no-frame=true&row=1" width="100%" alt="GitHub Profile Trophy">
