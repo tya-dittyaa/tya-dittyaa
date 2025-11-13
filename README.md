@@ -132,16 +132,19 @@ My professional focus includes:
           </p>
         </div>
       </td>
-      <td width="50%" style="vertical-align: top;">
+      <td width="50%" style="vertical-align: top; padding: 10px;">
         <div align="center">
           <a href="https://github.com/tya-dittyaa" target="_blank">
             <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Development%20Activity&fontSize=50&fontAlignY=35&desc=GitHub%20Profile&descAlignY=50&descAlign=62" width="100%" alt="Development Activity">
           </a>
-          <h3 align="center">Development Activity</h3>
-          <br>
+          <p>
+            <img src="https://img.shields.io/badge/Repository-Public-green?style=for-the-badge&logo=github">
+          </p>
           <p>
             <img src="https://github-profile-trophy.vercel.app/?username=tya-dittyaa&theme=nord&column=4&no-frame=true&row=1" width="100%" alt="GitHub Profile Trophy">
           </p>
+            <h3 align="center">Development Activity</h3>
+          <br>
           <p align="center">
             <b>💻 Working on scalable full-stack solutions that make a difference</b>
           </p>
