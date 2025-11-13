@@ -73,7 +73,7 @@ My professional focus includes:
 <div align="center">
   <table style="vertical-align: top;">
     <tr style="vertical-align: top;">
-      <td width="50%">
+      <td width="50%" style="vertical-align: top; padding: 10px;">
         <div align="center">
           <a href="https://hannachan.my.id/" target="_blank">
             <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hanna%20Chan%20Bot&fontSize=50&fontAlignY=35&desc=Discord%20Verified%20Bot&descAlignY=50&descAlign=62" width="100%" alt="Hanna Chan Discord Bot">
