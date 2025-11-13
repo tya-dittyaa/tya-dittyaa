@@ -138,9 +138,6 @@ My professional focus includes:
             <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Development%20Activity&fontSize=50&fontAlignY=35&desc=GitHub%20Profile&descAlignY=50&descAlign=62" width="100%" alt="Development Activity">
           </a>
           <p>
-            <img src="https://img.shields.io/badge/Repository-Public-green?style=for-the-badge&logo=github">
-          </p>
-          <p>
             <img src="https://github-profile-trophy.vercel.app/?username=tya-dittyaa&theme=nord&column=4&no-frame=true&row=1" width="100%" alt="GitHub Profile Trophy">
           </p>
             <h3 align="center">Development Activity</h3>
