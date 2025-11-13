@@ -1,36 +1,72 @@
+## 🚀 Hello World
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Tya+Dittyaa;Full+Stack+Developer;Discord+Bot+Creator&center=true&width=500&height=70">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Tya+Dittyaa;Junior+Programmer;BINUS+IT+Division;Computer+Science+Student&center=true&width=600&height=70">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-fajri/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BPQBmwTemY)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tya-dittyaa)
+[![Website](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dittyaa.my.id)
 
 </div>
 
+## 👨‍💼 About Me
+
+I'm **Tya Dittyaa**, a passionate developer building innovative solutions. Welcome to my profile!
+
+I am a **Junior Programmer** at **BINUS IT Division**, currently pursuing both my **Bachelor's and Master's degrees in Computer Science at BINUS University**. I am part of the **B26 cohort** and passionate about developing innovative software solutions.
+
+I also lead **HannaVox Studios**, where we're developing an innovative game featuring the **Hanna Chan** – a game that has been growing on Discord since 2020.
+
 ## 💼 Professional Overview
 
-> Innovative Full Stack Developer specializing in modern web applications and Discord automation solutions. Passionate about creating elegant, scalable software that solves real-world problems.
+I am an experienced **Full Stack Developer** with expertise in building scalable web applications. Currently working as a **Junior Programmer** at **BINUS IT Division**, contributing to various software solutions that support institutional operations and innovation initiatives.
 
-Currently working at **Bina Nusantara IT Division** while completing my Computer Science degree. I lead the **HannaVox Studios**, developing quality solutions that emphasize performance, user experience, and code quality.
+My professional focus includes:
 
-```typescript
-const tyaDittyaa = {
-  code: ["TypeScript", "JavaScript", "C#", "Python"],
-  technologies: {
-    frontEnd: {
-      js: ["Next.js", "React", "Redux"],
-      css: ["Tailwind", "Shadcn", "Daisy UI"],
-    },
-    backEnd: {
-      js: ["Nest.js", "Node", "Express"],
-      csharp: [".NET Core API", "Entity Framework"],
-    },
-    databases: ["MongoDB", "MySQL", "PostgreSQL"],
-    devOps: ["Docker", "CI/CD", "Azure"],
-  },
-  currentFocus: "Building highly scalable Discord bots and web applications",
-};
-```
+- **Full-stack web application development** with modern frameworks
+- **Cloud infrastructure management** and DevOps practices
+- **Database design and optimization** for high-performance systems
+- **API development** and integration services
+- **Community platform development** with real-time features
+
+### 🎯 Professional Skills
+
+**Frontend Development:**
+
+- Next.js, React, TypeScript, JavaScript
+- Tailwind CSS, Material-UI, Shadcn UI
+- State Management: Redux, Zustand
+
+**Backend Development:**
+
+- Nest.js, Node.js, Express.js
+- .NET Core, Entity Framework, C#
+- RESTful API design and implementation
+
+**Databases:**
+
+- **SQL:** PostgreSQL, MySQL, MariaDB, MS SQL Server
+- **NoSQL:** MongoDB
+- Database optimization and schema design
+
+**DevOps & Infrastructure:**
+
+- Docker containerization
+- CI/CD pipeline implementation
+- Azure Cloud Services
+- Git version control
+
+**Specializations:**
+
+- Real-time application architecture
+- Community platform development
+- Performance optimization
+
+### 🎨 Side Projects
+
+- Discord Bot Development (discord.js, Sapphire.js)
+- Hanna Chan Game Development (Discord-based game since 2020)
 
 ## 🚀 Highlighted Projects
 
@@ -44,11 +80,11 @@ const tyaDittyaa = {
             <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hanna%20Chan%20Bot&fontSize=50&fontAlignY=35&desc=Discord%20Verified%20Bot&descAlignY=50&descAlign=62" width="100%" alt="Hanna Chan Discord Bot">
           </a>
           <p>
-            <a href="https://hannachan.my.id/" target="_blank">
-              <img src="https://img.shields.io/badge/Live-Website-blueviolet?style=for-the-badge&logo=vercel">
-            </a>
             <a href="https://top.gg/bot/723092028396797982" target="_blank">
               <img src="https://img.shields.io/badge/Discord-Bot-7289DA?style=for-the-badge&logo=discord">
+            </a>
+            <a href="https://hannachan.id/">
+              <img src="https://img.shields.io/badge/Live-Unavailable-red?style=for-the-badge&logo=vercel">
             </a>
             <img src="https://img.shields.io/badge/Repository-Private-red?style=for-the-badge&logo=github">
           </p>
@@ -64,8 +100,8 @@ const tyaDittyaa = {
             <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Teras%20JKT48&fontSize=50&fontAlignY=35&desc=Community%20Platform&descAlignY=50&descAlign=62" width="100%" alt="Teras JKT48 Project">
           </a>
           <p>
-            <a href="https://teras48.com/" target="_blank">
-              <img src="https://img.shields.io/badge/Live-Website-DC143C?style=for-the-badge&logo=vercel">
+            <a href="#">
+              <img src="https://img.shields.io/badge/Live-Unavailable-red?style=for-the-badge&logo=vercel">
             </a>
             <img src="https://img.shields.io/badge/Repository-Private-red?style=for-the-badge&logo=github">
           </p>
@@ -79,12 +115,12 @@ const tyaDittyaa = {
       <td width="50%">
         <h3 align="center">Personal Portfolio</h3>
         <div align="center">
-          <a href="https://dittyaa.my.id/" target="_blank">
+          <a href="https://dittyaa.id/" target="_blank">
             <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=200&section=header&text=Personal%20Portfolio&fontSize=50&fontAlignY=35" width="100%" alt="Personal Portfolio">
           </a>
           <p>
-            <a href="https://dittyaa.my.id/" target="_blank">
-              <img src="https://img.shields.io/badge/Live-Website-000000?style=for-the-badge&logo=vercel">
+            <a href="#">
+              <img src="https://img.shields.io/badge/Live-Unavailable-red?style=for-the-badge&logo=vercel">
             </a>
             <img src="https://img.shields.io/badge/Repository-Private-red?style=for-the-badge&logo=github">
           </p>
@@ -114,22 +150,8 @@ const tyaDittyaa = {
 
 <div align="center">
   <div style="display: flex; align-items: flex-start; justify-content: center;">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,cs,python,nextjs,nestjs,dotnet,react,tailwind,materialui,mongodb,postgres,mysql,docker,azure,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,cs,python,php,html,css,nextjs,nestjs,laravel,vite,dotnet,react,tailwind,materialui,mongodb,postgres,mysql,mssql,redis,docker,azure,git,github,windows,ubuntu,debian,vscode,visualstudio&theme=dark" />
   </div>
-  <br>
-  
-  ![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
-  ![](https://img.shields.io/badge/Framework-Nest.js-informational?style=flat&logo=nestjs&logoColor=white&color=E0234E)
-  ![](https://img.shields.io/badge/Framework-.NET_Core-informational?style=flat&logo=.net&logoColor=white&color=512BD4)
-  ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
-  ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
-  ![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=239120)
-  ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
-  ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=316192)
-  ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
-  ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
-  ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
-  ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0078D4)
 </div>
 
 ## 📊 GitHub Statistics
@@ -137,12 +159,13 @@ const tyaDittyaa = {
 <div align="center">
   <a href="https://github.com/tya-dittyaa">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tya-dittyaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
+  <br>
+  <a href="https://github.com/tya-dittyaa">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tya-dittyaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   </a>
-  
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tya-dittyaa&theme=tokyonight" />
-  </p>
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tya-dittyaa&theme=tokyonight" />
 </div>
 
 ## 🤖 My Discord Bots
@@ -164,9 +187,11 @@ const tyaDittyaa = {
   <a href="https://discord.gg/BPQBmwTemY">
     <img src="https://invidget.switchblade.xyz/BPQBmwTemY" alt="Discord Server Invitation">
   </a>
-  
-  <br><br>
-  
+  <br>
+    <a href="https://discord.gg/6dXFXGsbRJ">
+    <img src="https://invidget.switchblade.xyz/6dXFXGsbRJ" alt="Discord Server Invitation">
+  </a>
+  <br>
   <a href="https://discord.gg/BE5XRCFdUh">
     <img src="https://invidget.switchblade.xyz/BE5XRCFdUh" alt="Teras JKT48 Server Invitation">
   </a>
@@ -183,6 +208,9 @@ const tyaDittyaa = {
   </a>
   <a href="https://discord.gg/BPQBmwTemY">
     <img src="https://img.shields.io/badge/Discord-Join%20Server-informational?style=for-the-badge&logo=discord&logoColor=white&color=5865F2">
+  </a>
+  <a href="https://github.com/tya-dittyaa">
+    <img src="https://img.shields.io/badge/GitHub-Follow-informational?style=for-the-badge&logo=github&logoColor=white&color=100000">
   </a>
   <a href="https://dittyaa.my.id">
     <img src="https://img.shields.io/badge/Website-dittyaa.my.id-informational?style=for-the-badge&logo=google-chrome&logoColor=white&color=4285F4">
