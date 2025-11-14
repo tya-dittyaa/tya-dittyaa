@@ -154,10 +154,9 @@ My professional focus includes:
 ## 💻 Technologies & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,php,cs,html,css,react,nextjs,vite,tailwind,materialui,redux,nodejs,nestjs,express,dotnet,laravel,mongodb,postgres,mysql,redis,rabbitmq,docker,azure,git,github,githubactions,grafana,nginx,postman,windows,ubuntu,debian,vscode,visualstudio&theme=dark" />
-  <br>
-  <p style="font-size: 12px; margin-top: 15px;">
-    <strong>Languages:</strong> TypeScript • JavaScript • Python • PHP • C# • HTML • CSS<br>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,cs,py,php,react,nextjs,vite,tailwind,materialui,redux,nodejs,nestjs,express,dotnet,laravel,mongodb,postgres,mysql,redis,rabbitmq,docker,azure,git,github,githubactions,grafana,nginx,postman,windows,ubuntu,debian,vscode,visualstudio&theme=dark" />
+  <p style="font-size: 12px; margin-top: 25px;">
+    <strong>Languages:</strong> TypeScript • JavaScript • HTML • CSS • C# • Python • PHP<br>
     <strong>Frontend:</strong> React • Next.js • Vite • Tailwind CSS • Material UI • Shadcn UI • Redux • Zustand<br>
     <strong>Backend:</strong> Node.js • Nest.js • Express.js • .NET Core • Laravel<br>
     <strong>Databases:</strong> MongoDB • PostgreSQL • MySQL • MariaDB • MS SQL Server • Redis<br>
