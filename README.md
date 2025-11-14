@@ -153,10 +153,16 @@ My professional focus includes:
 
 ## 💻 Technologies & Tools
 
-<div align="center">
-  <div style="display: flex; align-items: flex-start; justify-content: center;">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,cs,python,php,html,css,nextjs,nestjs,laravel,vite,dotnet,react,tailwind,materialui,mongodb,postgres,mysql,mssql,redis,docker,azure,git,github,windows,ubuntu,debian,vscode,visualstudio&theme=dark" />
-  </div>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,php,cs,html,css,react,nextjs,vite,tailwind,materialui,redux,nodejs,nestjs,express,dotnet,laravel,mongodb,postgres,mysql,redis,rabbitmq,docker,azure,git,github,githubactions,grafana,nginx,postman,windows,ubuntu,debian,vscode,visualstudio&theme=dark" />
+  <p style="font-size: 12px; margin-top: 15px;">
+    <strong>Languages:</strong> TypeScript • JavaScript • Python • PHP • C# • HTML • CSS<br>
+    <strong>Frontend:</strong> React • Next.js • Vite • Tailwind CSS • Material UI • Shadcn UI • Redux • Zustand<br>
+    <strong>Backend:</strong> Node.js • Nest.js • Express.js • .NET Core • Laravel<br>
+    <strong>Databases:</strong> MongoDB • PostgreSQL • MySQL • MariaDB • MS SQL Server • Redis<br>
+    <strong>DevOps:</strong> RabbitMQ • Docker • Azure • Git • GitHub • GitHub Actions • Grafana • Nginx • Postman<br>
+    <strong>Tools:</strong> Windows • Ubuntu • Debian • VS Code • Visual Studio
+  </p>
 </div>
 
 ## 📊 GitHub Statistics
